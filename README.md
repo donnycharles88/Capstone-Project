@@ -20,7 +20,7 @@ Key components of this project include:
 
 The dataset used in this project can be accessed here:
 
-🔗 [Students Social Media Addiction Dataset (CSV)](https://www.kaggle.com/code/adilshamim8/social-media-addiction-among-students) 
+🔗 [Students Social Media Addiction Dataset (CSV)](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships) 
 
 This dataset contains over 700 entries with detailed attributes such as:
 - `Student_ID`, `Age`, `Gender`, `Academic_Level`
